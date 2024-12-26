@@ -1,8 +1,8 @@
 # 🌿 Trekking Website
 
 Welcome to the Trekking Website! 🏃‍♂️🌄 This platform is designed to provide outdoor enthusiasts with all the tools,<br>
-resources, and guidance needed for an unforgettable adventure. Whether you're planning a mountain hike ⛰, a lakeside<br>
-camp 🌊, or a forest exploration 🌳, this responsive website is your ultimate companion.
+resources, and guidance needed for an unforgettable adventure. Whether you're planning a mountain hike ⛰, a<br> 
+lakeside camp 🌊, or a forest exploration 🌳, this responsive website is your ultimate companion.
 
 ## ✨ Key Features
 
